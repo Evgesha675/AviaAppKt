@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AviaPicker</string>
+    <string-array name="cities">
+        <item>Москва</item>
+        <item>Калининград</item>
+        <item>Новосибирск</item>
+        <item>Екатеринбург</item>
+        <item>Владивосток</item>
+        <item>Иркутск</item>
+    </string-array>
+</resources>
